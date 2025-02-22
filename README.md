@@ -1,6 +1,7 @@
-# EPBL_AI-ML_Assignments
+# 💡EPBL_AI-ML_Assignments🎯
 # 🚀 Experiential Project-Based Learning (EPBL) Program
-SmartBridge x Nasscom Future Skills Prime
+
+**SmartBridge x Nasscom Future Skills Prime**
 
 ## 📌 About the Program:
 This repository contains my assignments for the Experiential Project-Based Learning (EPBL) Program, focusing on AI/ML concepts using Python. The assignments involve working with data types, NumPy, Pandas, Matplotlib, and Seaborn in Google Colab, Jupyter Notebook, and Kaggle.
@@ -48,6 +49,8 @@ This repository contains my assignments for the Experiential Project-Based Learn
 🔹 **Libraries:** NumPy, Pandas, Matplotlib, Seaborn
 
 ## 📞 Connect with Me
-🌐 **LinkedIn:** Your Profile
-📧 **Email:** your-indrajeet101101@gmail.com
-🚀 **GitHub:** Your GitHub
+🌐 [**LinkedIn:**](https://www.linkedin.com/in/indrajeet-webdeveloper?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+📧 [**Email:**](indrajeet101101@gmail.com)
+
+🚀 [**GitHub:**]()
