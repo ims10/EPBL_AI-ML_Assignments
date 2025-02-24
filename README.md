@@ -43,6 +43,70 @@ This repository contains my assignments for the Experiential Project-Based Learn
 
 ✅ [Click here to explore](https://colab.research.google.com/drive/1_yoSlPSRqWlQvSDb94XaahYXjOWueN2W?authuser=2)
 
+## 🧩 4️⃣ Assignment 4: Exploratory Data Analysis (EDA) with Pandas, NumPy, Matplotlib & Seaborn
+
+🔹 **Dataset Selection**
+
+- Dataset sourced from Kaggle / Data.gov.in / Data.gov.
+
+- First 5 rows of the dataset:
+
+  
+🔹 **Dataset Shape**
+
+- print("This is a sample dataset. My complete data shape is:", df.shape)
+
+
+🔹 **100 Real-World Questions for Analysis**
+
+- What is the total number of missing values in the dataset?
+
+- What are the top 10 most common values in a specific column?
+
+- What is the correlation between different numerical features?
+
+- How does the distribution of one variable compare across different categories?
+
+- What is the trend of a particular variable over time?
+
+🔹 **Solving Questions with Pandas, NumPy, Matplotlib & Seaborn**
+
+✅ [Click here to explore](https://colab.research.google.com/drive/1X_vdnpV5DkD0ARKt3knB-rdEv_g1f2yu?authuser=2)
+
+## 📮 5️⃣ Assignment 5: Implementing Multiple Machine Learning Algorithms
+
+🔹 **Algorithms Implemented**
+
+- Simple Linear Regression
+
+- Multiple Linear Regression
+
+- Logistic Regression
+
+- Decision Tree Regressor & Classifier
+
+- Random Forest
+
+- Naive Bayes
+
+- Support Vector Classifier (SVC)
+
+- XGBoost
+
+✅ [Click here to explore](https://colab.research.google.com/drive/1Sm3HyouAzsQ2348eCN3Ff9ASkKe9lD1S?authuser=2)
+
+## ⛳ 6️⃣ Assignment 6: Creating an Artificial Neural Network (ANN)
+
+🔹 **Steps Involved**
+
+- Data Preprocessing
+
+- Building an ANN Model using TensorFlow/Keras
+
+- Training and Evaluating the Model
+
+✅ [Click here to explore](https://colab.research.google.com/drive/1WSYa07TDmkoEiukziChWLVEDExOI1US0?authuser=2)
+
 # ⚡Tech Stack Used
 🔹 **Programming Language:** Python 🐍
 🔹 **Tools:** Google Colab, Jupyter Notebook, Kaggle
