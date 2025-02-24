@@ -17,7 +17,7 @@ This repository contains my assignments for the Experiential Project-Based Learn
 - Expected Outcomes
 - Implementation Plan
   
-✅ Click here to explore
+✅ [Click here to explore](https://colab.research.google.com/drive/1jNzut2I17-Z-Qxs-f12Jwlo2Cqa-IhDh?authuser=2)
 
 ## 🛠 2️⃣ Python Data Types & Methods
 
@@ -30,7 +30,7 @@ This repository contains my assignments for the Experiential Project-Based Learn
 - Sets
 📌 Includes code snippets and outputs showcasing their use in AI/ML projects.
 
-✅ Click here to explore
+✅ [Click here to explore](https://colab.research.google.com/drive/1sET812QF77N_unAxMek-mpDe_IY5YDCx?authuser=2)
 
 ## 📊 3️⃣ Python Libraries for Data Analysis & Visualization
 
@@ -41,7 +41,7 @@ This repository contains my assignments for the Experiential Project-Based Learn
 - Data Visualization (Graphs, Charts, Heatmaps, etc.)
 📌 Includes detailed explanations and practical implementations.
 
-✅ Click here to explore
+✅ [Click here to explore](https://colab.research.google.com/drive/1_yoSlPSRqWlQvSDb94XaahYXjOWueN2W?authuser=2)
 
 # ⚡Tech Stack Used
 🔹 **Programming Language:** Python 🐍
